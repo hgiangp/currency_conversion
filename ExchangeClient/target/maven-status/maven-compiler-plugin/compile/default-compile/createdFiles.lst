@@ -1,0 +1,16 @@
+exchange/package-info.class
+exchange/GetExchangeRateResponse.class
+exchangeclient/GetExchangeRate.class
+exchangeclient/ExchangeCurrency.class
+exchangeclient/ExchangeCurrencyResponse.class
+exchangeclient/package-info.class
+exchange/ExchangeService.class
+exchangeclient/GetExchangeRateResponse.class
+exchange/ExchangeService_Service.class
+exchangeclient/ObjectFactory.class
+exchange/ExchangeCurrencyResponse.class
+exchange/ObjectFactory.class
+exchangeclient/ExchangeService_Service.class
+exchange/ExchangeCurrency.class
+exchange/GetExchangeRate.class
+exchangeclient/ExchangeService.class
