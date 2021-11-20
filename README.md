@@ -9,8 +9,8 @@ Netbeans
 # Exchange graph
 
 |-----------------|<br />
-x&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|<br />
+x&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|<br />
 USD --> JPY --> EUR<br />
-&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|<br />
-&ensp;&ensp;&ensp;&ensp;&ensp;x&ensp;&ensp;&ensp;&ensp;&ensp;x<br />
-&ensp;&ensp;&ensp;&ensp;&ensp;CNY--->KRW<br />
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|<br />
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;x&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;x<br />
+&ensp;&ensp;&ensp;&ensp;&ensp&ensp;&ensp;;CNY--->KRW<br />
