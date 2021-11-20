@@ -9,7 +9,7 @@ Netbeans
 # Exchange graph
 
 |-----------------|<br />
-x_________________|<br />
+x&ensp;&ensp;&ensp;&ensp;|<br />
 USD --> JPY --> EUR<br />
 ________|_______|<br />
 ________x_______x<br />
