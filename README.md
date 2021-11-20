@@ -9,8 +9,8 @@ Netbeans
 # Exchange graph
 
 |-----------------|<br />
-x                 |<br />
+x_________________|<br />
 USD --> JPY --> EUR<br />
-         |        |<br />
-         x        x<br />
+         |_______|<br />
+         x_______x<br />
          CNY ---> KRW<br />
